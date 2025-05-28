@@ -30,10 +30,10 @@
 | 6 | Практическая работа 3 (UML)                   | [![UML 3](https://img.shields.io/badge/📘_UML_3-9C27B0?style=for-the-badge&logo=bookstack)](https://github.com/troB00/RibaLabs/tree/main/Ribalabs--main/ООП) |
 | 7 | Практическая работа 4 (UML)                   | [![UML 4](https://img.shields.io/badge/📘_UML_4-FF9800?style=for-the-badge&logo=bookstack)] (https://github.com/troB00/RibaLabs/tree/main/Ribalabs--main/ООП) |
 | 8 | Консольный проводник файловой системы         | [![Консольный проводник](https://img.shields.io/badge/📚_Консольный_проводник-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/troB00/RibaLabs/tree/main/Ribalabs--main/ООП/Creating%20a%20simple%20file%20Explorer) |
-| 9 | Лабораторные работы по программированию       | [![Лабораторные работы](https://img.shields.io/badge/📘_Лабораторные_работы-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/9onin/Fish-and-Chips-/tree/41e033ca6a994f0c8214ce194c6968a4f2beb0d3/Labs%20Fish%20and%20chips) |
+| 9 | Лабораторные работы по программированию       | [![Лабораторные работы](https://img.shields.io/badge/📘_Лабораторные_работы-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/troB00/RibaLabs/tree/main/Ribalabs--main) |
 
 ---
 
-## 📝 Примечания
+Примечания
 
-- Рекомендуется использовать Visual Studio 2022 для удобства работы и отладки.  
+- Рекомендуется использовать Visual Studio 2022 для удобства работы  
