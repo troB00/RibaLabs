@@ -1,0 +1,10 @@
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\bin\Debug\wintimer2Lab3.exe.config
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\bin\Debug\wintimer2Lab3.exe
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\bin\Debug\wintimer2Lab3.pdb
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\obj\Debug\wintimer2Lab3.csproj.AssemblyReference.cache
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\obj\Debug\wintimer2Lab3.Properties.Resources.resources
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\obj\Debug\wintimer2Lab3.UserControl1.resources
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\obj\Debug\wintimer2Lab3.csproj.GenerateResource.cache
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\obj\Debug\wintimer2Lab3.csproj.CoreCompileInputs.cache
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\obj\Debug\wintimer2Lab3.exe
+C:\Users\BAZA\source\repos\wintimer2Lab3\wintimer2Lab3\obj\Debug\wintimer2Lab3.pdb

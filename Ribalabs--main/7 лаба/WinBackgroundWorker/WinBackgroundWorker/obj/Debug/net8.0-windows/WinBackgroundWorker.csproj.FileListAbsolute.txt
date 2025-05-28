@@ -1,0 +1,16 @@
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.exe
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.deps.json
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.runtimeconfig.json
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.dll
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\bin\Debug\net8.0-windows\WinBackgroundWorker.pdb
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.Form1.resources
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.AssemblyInfo.cs
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.dll
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\refint\WinBackgroundWorker.dll
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.pdb
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\WinBackgroundWorker.genruntimeconfig.cache
+C:\Users\nikit\source\repos\WinBackgroundWorker\WinBackgroundWorker\obj\Debug\net8.0-windows\ref\WinBackgroundWorker.dll

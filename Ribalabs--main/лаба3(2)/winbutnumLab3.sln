@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winbutnumLab3", "winbutnumLab3\winbutnumLab3.csproj", "{58BAA8BD-29B5-44E6-9080-EF82A1A1FE00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BAA8BD-29B5-44E6-9080-EF82A1A1FE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BAA8BD-29B5-44E6-9080-EF82A1A1FE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BAA8BD-29B5-44E6-9080-EF82A1A1FE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BAA8BD-29B5-44E6-9080-EF82A1A1FE00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB614E1-F03F-4861-B957-04A99408DEFC}
+	EndGlobalSection
+EndGlobal

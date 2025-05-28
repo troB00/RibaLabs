@@ -1,0 +1,16 @@
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.exe
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.deps.json
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.runtimeconfig.json
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.dll
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.pdb
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.Form1.resources
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.AssemblyInfo.cs
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.dll
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\refint\WinAsynchMethod.dll
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.pdb
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.genruntimeconfig.cache
+C:\Users\nikit\source\repos\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\ref\WinAsynchMethod.dll

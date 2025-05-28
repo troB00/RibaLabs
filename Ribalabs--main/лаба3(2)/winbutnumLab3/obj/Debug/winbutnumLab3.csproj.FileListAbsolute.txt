@@ -1,0 +1,11 @@
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\bin\Debug\winbutnumLab3.exe.config
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\bin\Debug\winbutnumLab3.exe
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\bin\Debug\winbutnumLab3.pdb
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\obj\Debug\winbutnumLab3.csproj.AssemblyReference.cache
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\obj\Debug\winbutnumLab3.Properties.Resources.resources
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\obj\Debug\winbutnumLab3.csproj.GenerateResource.cache
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\obj\Debug\winbutnumLab3.csproj.CoreCompileInputs.cache
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\obj\Debug\winbutnumLab3.exe
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\obj\Debug\winbutnumLab3.pdb
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\obj\Debug\winbutnumLab3.exe.config
+C:\Users\BAZA\source\repos\winbutnumLab3\winbutnumLab3\obj\Debug\winbutnumLab3.Form1.resources

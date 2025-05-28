@@ -1,0 +1,17 @@
+C:\Users\nikit\source\repos\WinPrint\WinPrint\bin\Debug\net8.0-windows\WinPrint.exe
+C:\Users\nikit\source\repos\WinPrint\WinPrint\bin\Debug\net8.0-windows\WinPrint.deps.json
+C:\Users\nikit\source\repos\WinPrint\WinPrint\bin\Debug\net8.0-windows\WinPrint.runtimeconfig.json
+C:\Users\nikit\source\repos\WinPrint\WinPrint\bin\Debug\net8.0-windows\WinPrint.dll
+C:\Users\nikit\source\repos\WinPrint\WinPrint\bin\Debug\net8.0-windows\WinPrint.pdb
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.Form1.resources
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.AssemblyInfo.cs
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.dll
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\refint\WinPrint.dll
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.pdb
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.genruntimeconfig.cache
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\ref\WinPrint.dll
+C:\Users\nikit\source\repos\WinPrint\WinPrint\obj\Debug\net8.0-windows\WinPrint.Form2.resources

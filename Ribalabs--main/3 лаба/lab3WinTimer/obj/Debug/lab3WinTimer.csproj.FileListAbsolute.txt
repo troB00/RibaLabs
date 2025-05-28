@@ -1,0 +1,10 @@
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\obj\Debug\lab3WinTimer.csproj.AssemblyReference.cache
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\obj\Debug\lab3WinTimer.Properties.Resources.resources
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\obj\Debug\lab3WinTimer.UserControl1.resources
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\obj\Debug\lab3WinTimer.csproj.GenerateResource.cache
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\obj\Debug\lab3WinTimer.csproj.CoreCompileInputs.cache
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\bin\Debug\lab3WinTimer.exe.config
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\bin\Debug\lab3WinTimer.exe
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\bin\Debug\lab3WinTimer.pdb
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\obj\Debug\lab3WinTimer.exe
+C:\Users\BAZA\source\repos\lab3WinTimer\lab3WinTimer\obj\Debug\lab3WinTimer.pdb
